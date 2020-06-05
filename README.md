@@ -16,10 +16,12 @@
 |January| [NUS Hackers Hack-and-Roll](https://hacknroll.nushackers.org/)| -
 |January - April| (most) Local Internship Applications| Most opens in this period. However, some opens as early as August of the preceding work year.
 |March / September| [Undergraduate Research Opportunities Programme (UROP) application](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)| Application is for the next academic semester.
-|August - December | (most) Overseas Internship Applications |
+|August| [NUS Team Bumblebee application](https://bumblebee.sg/about/)| - 
+|August - December | (most) Overseas Internship Applications | -
 |December| [CVWO Winter Assignment](https://www.comp.nus.edu.sg/~vwo/) | TODO: Add `sample-assignment-pdf` |
 |TODO| Exchange | -
 |TODO| FYP | -
+|TODO| NoC | -
 
 ## Academic
 1. Box links
