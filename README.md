@@ -1,4 +1,4 @@
-# USP Peer Mentor Sources
+# USP Peer Mentor Resources
 ## Advice
 1. [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
 
