@@ -30,7 +30,7 @@
     1. **What.** Similar to this [estimate](https://larrylawl.github.io/articles/estimate-uni-workload.html) I wrote for my mentees. 
   Benchmark for estimates can be modules every computing student would have taken (CS1231, MA1101R, MA1521, ST2334) etc.
     2. **Why.** Allows any computing student (not just freshies) to have a better estimate of their workload.
-    3. **Improvements.** We can even have another column that mentions the rating of the module. Similar to the good soc mods I have compiled [here](https://github.com/larrylawl/good-soc-mods_
+    3. **Improvements.** We can even have another column that mentions the rating of the module. Similar to the good soc mods I have compiled [here](https://github.com/larrylawl/good-soc-mods)
   
 ## Advice from Seniors (similar to the section in notes to future CS freshman)
   
